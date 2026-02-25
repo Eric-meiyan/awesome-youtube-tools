@@ -110,3 +110,10 @@ Please ensure your PR:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released under CC0. You can copy, modify, and distribute this work, even for commercial purposes, all without asking permission.
+
+---
+
+## More Awesome Free Tools
+
+- 🧠 [IQ Game Online](https://iqgame.online) — Free online brain training games and IQ tests
+- 🍗 [Party Food Calculator](https://partyfoodcalc.com) — Calculate how much food you need for any party
