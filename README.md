@@ -53,6 +53,7 @@ Tools that use AI to summarize YouTube video content.
 |------|-------------|-------|--------------|
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Feature-rich command-line audio/video downloader. Fork of youtube-dl. | ✅ Free | ✅ |
 | [Cobalt](https://cobalt.tools) | Simple, ad-free media downloader for YouTube and other platforms. | ✅ Free | ✅ |
+| [Cyber Collector](https://t.me/cybercollectorbot) | Telegram bot for downloading videos from TikTok, Instagram, YouTube Shorts, X/Twitter, and Facebook without watermarks. No signup required. | ✅ Free | — |
 
 ## Analytics & SEO
 
