@@ -60,6 +60,7 @@ Tools that use AI to summarize YouTube video content.
 |------|-------------|-------|
 | [TubeBuddy](https://www.tubebuddy.com) | YouTube channel management and SEO toolkit. | Freemium |
 | [vidIQ](https://vidiq.com) | YouTube audience development and analytics. | Freemium |
+| [YT SEO Architect](https://yt-seo-architect.vercel.app) | AI YouTube SEO toolkit with 17 free tools: keyword research, tag generator, metadata audit, and Phronesis AI growth coach. | Freemium |
 | [Social Blade](https://socialblade.com) | YouTube channel statistics and analytics. | ✅ Free |
 
 ## Content Creation
