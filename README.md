@@ -27,6 +27,7 @@ Tools for extracting, generating, and downloading transcripts and subtitles from
 | Tool | Description | Free? | Open Source? |
 |------|-------------|-------|--------------|
 | ⭐ [**YouTubeTranscriptFree**](https://youtubetranscriptfree.com) | Free YouTube transcript generator with timestamps. No login required, supports 100+ languages. Copy or download as TXT. | ✅ Free | — |
+| [WatchToText](https://watchtotext.com) | Free browser tool for YouTube transcripts with copy, TXT, and SRT export; no account required. | ✅ Free | — |
 | [Tactiq](https://tactiq.io/tools/youtube-transcript) | Chrome extension for real-time transcript extraction during video playback. | Freemium | — |
 | [NoteGPT](https://notegpt.io/youtube-transcript-generator) | YouTube transcript generator with AI note-taking features. | Freemium | — |
 | [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | Python library to fetch YouTube transcripts programmatically. | ✅ Free | ✅ |
