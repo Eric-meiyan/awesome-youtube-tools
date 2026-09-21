@@ -66,6 +66,7 @@ Tools that use AI to summarize YouTube video content.
 
 | Tool | Description | Free? |
 |------|-------------|-------|
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Local-first CLI and MCP toolkit for agent-driven video composition, editing, transcription, and captions. | ✅ Free |
 | [Opus Clip](https://www.opus.pro) | AI-powered tool to repurpose long YouTube videos into viral shorts. | Freemium |
 | [Submagic](https://www.submagic.co) | Auto-generate captions and subtitles for short-form content. | Freemium |
 | [Kapwing](https://www.kapwing.com) | Online video editor with subtitle and transcript tools. | Freemium |
