@@ -85,6 +85,7 @@ Tools that use AI to summarize YouTube video content.
 | [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | Python | Fetch transcripts from YouTube videos. |
 | [youtubei.js](https://github.com/LuanRT/YouTube.js) | JavaScript | Full-featured YouTube API client. |
 | [Supadata](https://supadata.ai/youtube-transcript-api) | REST API | Commercial API for YouTube transcripts. |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/docs) | REST API | Free-tier API for transcripts, video/channel search, channel browsing, and playlists. Also available as an MCP server. |
 
 ---
 
