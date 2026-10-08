@@ -116,4 +116,5 @@ This list is released under CC0. You can copy, modify, and distribute this work,
 ## More Awesome Free Tools
 
 - 🧠 [IQ Game Online](https://iqgame.online) — Free online brain training games and IQ tests
+- 📅 [KupitSledovatelov Growth Pace Calculator (Slovak)](https://kupitsledovatelov.sk/tools/follower-growth) — Free manual calculation of net daily and weekly increase from current count, target and days; no account.
 - 🍗 [Party Food Calculator](https://partyfoodcalc.com) — Calculate how much food you need for any party
