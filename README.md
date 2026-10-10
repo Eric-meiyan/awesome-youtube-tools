@@ -1,4 +1,4 @@
-# 🎬 Awesome YouTube Tools
+﻿# 🎬 Awesome YouTube Tools
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -53,6 +53,7 @@ Tools that use AI to summarize YouTube video content.
 |------|-------------|-------|--------------|
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Feature-rich command-line audio/video downloader. Fork of youtube-dl. | ✅ Free | ✅ |
 | [Cobalt](https://cobalt.tools) | Simple, ad-free media downloader for YouTube and other platforms. | ✅ Free | ✅ |
+| [YT Video Downloader](https://ytubevideodownloader.com/) | Free browser-based YouTube downloader. Paste a public link, preview, then save MP4 or MP3. Supports Shorts and Music. | ✅ Free | — |
 
 ## Analytics & SEO
 
