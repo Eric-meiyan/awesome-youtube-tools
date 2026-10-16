@@ -46,6 +46,7 @@ Tools that use AI to summarize YouTube video content.
 | [Otter.ai](https://otter.ai) | AI meeting notes and transcription with summarization. | Freemium |
 | [Descript](https://www.descript.com) | All-in-one video editor with transcription and AI features. | Freemium |
 | [Eightify](https://eightify.app) | Chrome extension for instant YouTube video summaries. | Freemium |
+| [SummarizAI](https://summarizai.ink) | Chrome extension for on-page YouTube summary, chapters, chat, and Study flashcards. | Freemium |
 
 ## Download & Convert
 
