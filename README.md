@@ -69,6 +69,7 @@ Tools that use AI to summarize YouTube video content.
 | [Opus Clip](https://www.opus.pro) | AI-powered tool to repurpose long YouTube videos into viral shorts. | Freemium |
 | [Submagic](https://www.submagic.co) | Auto-generate captions and subtitles for short-form content. | Freemium |
 | [Kapwing](https://www.kapwing.com) | Online video editor with subtitle and transcript tools. | Freemium |
+| [FacelessShorts](https://facelessshorts.io) | Generate scripted faceless shorts with narration, captions, and scheduled publishing to Shorts, TikTok, and Reels. | Paid |
 
 ## Browser Extensions
 
