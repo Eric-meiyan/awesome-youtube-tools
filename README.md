@@ -34,6 +34,7 @@ Tools for extracting, generating, and downloading transcripts and subtitles from
 | [Maestra](https://maestra.ai/tools/video-to-text/youtube-transcript-generator) | AI-powered transcription with translation and voiceover capabilities. | Freemium | — |
 | [TubeTranscript](https://tubetranscript.com/en) | Simple YouTube video transcription tool with multi-language support. | ✅ Free | — |
 | [Kome](https://kome.ai/tools/youtube-transcript-generator) | Fast YouTube transcript generator as part of a larger AI toolkit. | ✅ Free | — |
+| [Voqusa](https://www.voqusa.com/en) | Free YouTube transcript generator (also TikTok, Instagram and more) with 14 languages and no signup. | ✅ Free | — |
 
 ## AI Summarization
 
