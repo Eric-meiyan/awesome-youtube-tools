@@ -53,6 +53,7 @@ Tools that use AI to summarize YouTube video content.
 |------|-------------|-------|--------------|
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Feature-rich command-line audio/video downloader. Fork of youtube-dl. | ✅ Free | ✅ |
 | [Cobalt](https://cobalt.tools) | Simple, ad-free media downloader for YouTube and other platforms. | ✅ Free | ✅ |
+| [VideoFetcher](https://videofetcher.net) | Free online YouTube video downloader. Tested Nov 2026: up to 720p video-only, 360p with audio, separate M4A audio track; no subtitles. | ✅ Free | No |
 
 ## Analytics & SEO
 
